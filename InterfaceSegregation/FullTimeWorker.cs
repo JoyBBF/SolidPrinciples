@@ -2,7 +2,7 @@ using System;
 
 namespace SolidPrinciples.InterfaceSegregation
 {
-    public class FullTimeWorker : IFullTimeWorker
+    public class FullTimeWorker : IFullTimeWorkerSalary
     {
         public string Id { get; set; }
         
