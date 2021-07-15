@@ -1,0 +1,16 @@
+C:\Users\jyby\OneDrive - GFT Technologies SE\Documents\JoyProjects\solid-principles-master\SolidPrinciples\obj\Debug\net5.0\SolidPrinciples.csproj.AssemblyReference.cache
+C:\Users\jyby\OneDrive - GFT Technologies SE\Documents\JoyProjects\solid-principles-master\SolidPrinciples\obj\Debug\net5.0\SolidPrinciples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jyby\OneDrive - GFT Technologies SE\Documents\JoyProjects\solid-principles-master\SolidPrinciples\obj\Debug\net5.0\SolidPrinciples.AssemblyInfoInputs.cache
+C:\Users\jyby\OneDrive - GFT Technologies SE\Documents\JoyProjects\solid-principles-master\SolidPrinciples\obj\Debug\net5.0\SolidPrinciples.AssemblyInfo.cs
+C:\Users\jyby\OneDrive - GFT Technologies SE\Documents\JoyProjects\solid-principles-master\SolidPrinciples\obj\Debug\net5.0\SolidPrinciples.csproj.CoreCompileInputs.cache
+C:\Users\jyby\OneDrive - GFT Technologies SE\Documents\JoyProjects\solid-principles-master\SolidPrinciples\bin\Debug\net5.0\SolidPrinciples.exe
+C:\Users\jyby\OneDrive - GFT Technologies SE\Documents\JoyProjects\solid-principles-master\SolidPrinciples\bin\Debug\net5.0\SolidPrinciples.deps.json
+C:\Users\jyby\OneDrive - GFT Technologies SE\Documents\JoyProjects\solid-principles-master\SolidPrinciples\bin\Debug\net5.0\SolidPrinciples.runtimeconfig.json
+C:\Users\jyby\OneDrive - GFT Technologies SE\Documents\JoyProjects\solid-principles-master\SolidPrinciples\bin\Debug\net5.0\SolidPrinciples.runtimeconfig.dev.json
+C:\Users\jyby\OneDrive - GFT Technologies SE\Documents\JoyProjects\solid-principles-master\SolidPrinciples\bin\Debug\net5.0\SolidPrinciples.dll
+C:\Users\jyby\OneDrive - GFT Technologies SE\Documents\JoyProjects\solid-principles-master\SolidPrinciples\bin\Debug\net5.0\ref\SolidPrinciples.dll
+C:\Users\jyby\OneDrive - GFT Technologies SE\Documents\JoyProjects\solid-principles-master\SolidPrinciples\bin\Debug\net5.0\SolidPrinciples.pdb
+C:\Users\jyby\OneDrive - GFT Technologies SE\Documents\JoyProjects\solid-principles-master\SolidPrinciples\obj\Debug\net5.0\SolidPrinciples.dll
+C:\Users\jyby\OneDrive - GFT Technologies SE\Documents\JoyProjects\solid-principles-master\SolidPrinciples\obj\Debug\net5.0\ref\SolidPrinciples.dll
+C:\Users\jyby\OneDrive - GFT Technologies SE\Documents\JoyProjects\solid-principles-master\SolidPrinciples\obj\Debug\net5.0\SolidPrinciples.pdb
+C:\Users\jyby\OneDrive - GFT Technologies SE\Documents\JoyProjects\solid-principles-master\SolidPrinciples\obj\Debug\net5.0\SolidPrinciples.genruntimeconfig.cache
